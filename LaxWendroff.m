@@ -1,5 +1,5 @@
 close all;
-clear all;
+clear;
 clc;
 
 L=100; % Length of the domain
